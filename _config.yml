@@ -8,7 +8,7 @@
 
 
 # Site Settings
-locale                   : "Newcastle upon Tyne, UK"
+locale                   : "CN"
 title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Minye Shao"
@@ -85,7 +85,7 @@ author:
   name             : "Minye Shao"
   avatar           : "profile.png"
   bio              : "Computer Science PhD student in the Hybrid Intelligence (HI) Lab at Durham University."
-  location         : "Shanghai,China"
+  location         : "Newcastle upon Tyne, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
