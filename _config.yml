@@ -4,13 +4,15 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+# I am a second-year computer science PhD student in the Causal Artificial Intelligence Lab at Columbia University working with Prof. Elias Bareinboim. During my wonderful Master’s studies in Brown University, I was fortunate enough to work with Prof. Michael Littman. I obtained my B.S from Beihang University, under the supervision of Prof. Jingyuan Wang.
+
 
 # Site Settings
-locale                   : "Shanghai,China"
+locale                   : "Newcastle upon Tyne, UK"
 title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Minye Shao"
-description              : &description "2020 class postgraduate student of Newcastle University majoring in Data Science."
+description              : &description "Computer Science PhD student in the Hybrid Intelligence (HI) Lab at Durham University."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MinyeShao.github.io"
@@ -82,7 +84,7 @@ analytics:
 author:
   name             : "Minye Shao"
   avatar           : "profile.png"
-  bio              : "2020 class postgraduate student of Newcastle University majoring in Data Science."
+  bio              : "Computer Science PhD student in the Hybrid Intelligence (HI) Lab at Durham University."
   location         : "Shanghai,China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
